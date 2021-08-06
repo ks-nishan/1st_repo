@@ -1,2 +1,4 @@
 #example Repository
-This is a sample repo, hello world;;;
+This is a sample repo, hello world and hello world;;;
+
+This is a second commit;;;
